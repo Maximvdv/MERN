@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans:300,400,700,700i');
 
 html{
-  height: 100%;
+  min-height: 100%;
 }
 
 body {
@@ -13,8 +13,7 @@ body {
   background: -webkit-linear-gradient(top,  #feffe8 0%,#d6dbbf 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom,  #feffe8 0%,#d6dbbf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffe8', endColorstr='#d6dbbf',GradientType=0 ); /* IE6-9 */
-  min-height: 100%;
-  
+
 }
 
 /*gridlayout*/
